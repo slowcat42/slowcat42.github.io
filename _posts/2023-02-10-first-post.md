@@ -1,1 +1,1 @@
-![이게 뭐지 왜 안되는 걸까](command-prompt-icon-25.jpg)
+![이게 뭐지 왜 안되는 걸까](../images/command-prompt-icon-25.jpg)
